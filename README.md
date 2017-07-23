@@ -1,8 +1,8 @@
-#WifiAdb
+# WifiAdb
 
 A simple tool for phone to open adb wireless debugging.
 
-##Required
+## Required
 A root phone
 
 ## License
